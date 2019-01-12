@@ -1,0 +1,3 @@
+rootProject.name = 'wy-utils'
+
+include 'server'
